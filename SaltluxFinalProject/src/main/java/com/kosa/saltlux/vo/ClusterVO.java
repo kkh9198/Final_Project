@@ -1,31 +1,3 @@
-package com.kosa.saltlux.vo;
-
-public class ClusterVO {
-	private int clusterNum;
-	private String articleIndex;
-	private int cnt;
-	
-	public int getClusterNum() {
-		return clusterNum;
-	}
-	public void setClusterNum(int clusterNum) {
-		this.clusterNum = clusterNum;
-	}
-	public String getArticleIndex() {
-		return articleIndex;
-	}
-	public void setArticleIndex(String articleIndex) {
-		this.articleIndex = articleIndex;
-	}
-	public int getCnt() {
-		return cnt;
-	}
-	public void setCnt(int cnt) {
-		this.cnt = cnt;
-	}
-	
-	@Override
-	public String toString() {
-		return "ClusterVO [clusterNum=" + clusterNum + ", articleIndex=" + articleIndex + ", cnt=" + cnt + "]";
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7637b41c6c6fb18233a9d36acb61ce5cffd44d1759fea8a2570880448656a0e
+size 691

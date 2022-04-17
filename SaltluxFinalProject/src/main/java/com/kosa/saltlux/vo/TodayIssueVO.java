@@ -1,27 +1,3 @@
-package com.kosa.saltlux.vo;
-
-import java.util.List;
-
-public class TodayIssueVO {
-	private int clusterNum;
-	private List<Integer> docList;
-	
-	public int getClusterNum() {
-		return clusterNum;
-	}
-	public void setClusterNum(int clusterNum) {
-		this.clusterNum = clusterNum;
-	}
-	public List<Integer> getDocList() {
-		return docList;
-	}
-	public void setDocList(List<Integer> docList) {
-		this.docList = docList;
-	}
-	
-	@Override
-	public String toString() {
-		return "todayIssueVO [clusterNum=" + clusterNum + ", docList=" + docList + "]";
-	}
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cde32a73cfed171a5468f88fbb9c7d715975f1bd5b305084b3f7b4af8f0854d
+size 568

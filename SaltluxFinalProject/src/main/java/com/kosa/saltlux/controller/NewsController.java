@@ -1,17 +1,3 @@
-package com.kosa.saltlux.controller;
-
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-
-import com.kosa.saltlux.service.NewsService;
-
-@Controller
-public class NewsController {
-
-//	@Autowired
-//	NewsService newsService;
-//	
-//	@RequestMapping(value="/api/v1/news", method=RequestMethod.GET)
-//	public 
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:186024f82578aa8663dfdacf38ca939a0d0c98b5eed0879baaa72206cf2279b6
+size 386

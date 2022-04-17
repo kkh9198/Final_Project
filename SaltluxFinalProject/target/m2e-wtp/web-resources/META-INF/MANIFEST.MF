@@ -1,5 +1,3 @@
-Manifest-Version: 1.0
-Built-By: Juhui Park
-Build-Jdk: 1.8.0_291
-Created-By: Maven Integration for Eclipse
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d664f900973203d8073cc7a3bc12d70b7ff9c6ef80e394acd4e88b98f79a2dd
+size 112
